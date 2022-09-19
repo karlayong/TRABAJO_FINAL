@@ -1,0 +1,1 @@
+const words = ['Angular','Laravel', 'Symfony','Django','Phalcon','Spring','ExpressJS','Struts','Zend','Python','Java', 'JavaScript','PHP','Swift','R','ObjectiveC',' Matlab'];
